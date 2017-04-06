@@ -5,8 +5,6 @@ Models inSanity - Mathematical Modeling at the edge of engineering, neuroscience
 
 ## Posts
 
-### 
-
 ### Blind Source Separation
 
-First post will be focused on some techniques for dimensionality reduction in the context of blind source separation. Take a look.
+First post will be focused on some techniques for dimensionality reduction in the context of blind source separation. [Take a look](BSS.md).
