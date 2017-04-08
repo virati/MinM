@@ -1,6 +1,5 @@
 ## Overview
-Models inSanity - Mathematical Modeling at the edge of engineering, neuroscience, and medicine
-
+Models in Sanity - Seeing neuroscience and medicine through the lens of mathematical modeling
 
 
 ## Posts
