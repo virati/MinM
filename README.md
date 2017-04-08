@@ -1,6 +1,7 @@
 ## Overview
-Models in Sanity - Seeing neuroscience and medicine through the lens of mathematical modeling
+Welcome! This blog is an attempt to merge concepts from neuromedicine, including psychiatry, with mathematical modeling. 
 
+The content here is heavily inspired by my experience as an MD/PhD student at Emory and GeorgiaTech but I hope that the worlds of medicine, mathematics, and engineering find themselves intersecting more often as time goes on. There's a lot that the fields can learn from each other.
 
 ## Posts
 
