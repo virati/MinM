@@ -1,3 +1,10 @@
+# Models in Medicine
+
+Medical school teaches students the basics of diseases, including the symptoms and biology associated with those diseases.
+These basics highlight how different symptoms and biological factors are related.
+In other words: they're models.
+Why not make these models explicit to teach them more effectively.
+
 ## Overview
 Welcome! This blog is a bit of a playground where I'll talk about issues broadly related to clinical neuroengineering. Specifically, in this blog we'll rely heavily on models to illustrate various points and topics broadly related to neuroscience, psychiatry, neurosurgery, neuromedicine, signal processing, inference, estimation, robotics, control theory, etc. etc. I mean it when I say playground...
 
